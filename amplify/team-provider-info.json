@@ -1,0 +1,28 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-sumerianamplifyapp-dev-135324-authRole",
+      "UnauthRoleArn": "arn:aws:iam::827204620838:role/amplify-sumerianamplifyapp-dev-135324-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::827204620838:role/amplify-sumerianamplifyapp-dev-135324-authRole",
+      "Region": "ap-southeast-1",
+      "DeploymentBucketName": "amplify-sumerianamplifyapp-dev-135324-deployment",
+      "UnauthRoleName": "amplify-sumerianamplifyapp-dev-135324-unauthRole",
+      "StackName": "amplify-sumerianamplifyapp-dev-135324",
+      "StackId": "arn:aws:cloudformation:ap-southeast-1:827204620838:stack/amplify-sumerianamplifyapp-dev-135324/c8106000-f260-11ea-9974-02acec4c14d0",
+      "AmplifyAppId": "dnepvw6fsy9xc"
+    },
+    "categories": {
+      "auth": {
+        "cognito9d45baab": {}
+      },
+      "xr": {
+        "basiclightswitch": {
+          "url": "https://sumerian.ap-southeast-1.amazonaws.com/20180801/projects/Drafts-assumed-role%2FAWSReservedSSO_PowerUserAccess_79ec3692a3e8aee2%2Fglobe.zlcebora/release/authTokens?sceneId=f0ef6049077c414fa69c88c9b7daca24.scene",
+          "sceneId": "f0ef6049077c414fa69c88c9b7daca24.scene",
+          "region": "ap-southeast-1",
+          "projectName": "Drafts-assumed-role/AWSReservedSSO_PowerUserAccess_79ec3692a3e8aee2/globe.zlcebora"
+        }
+      }
+    }
+  }
+}

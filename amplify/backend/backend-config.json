@@ -1,0 +1,15 @@
+{
+  "auth": {
+    "cognito9d45baab": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": []
+    }
+  },
+  "xr": {
+    "basiclightswitch": {
+      "service": "Sumerian",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
